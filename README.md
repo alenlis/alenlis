@@ -1,7 +1,7 @@
 ### **Hi**  ⚡⚡⚡⚡
 
 - 🔭 I’m currently working on selfeducation
-- 🌱 I’m currently learning __**SQL and Python**__
+- 🌱 I’m currently learning ___**SQL and Python**___
 - 👯 I’m looking to collaborate on HR-manager
 - 🤔 I’m looking for help with donate
 - 💬 Ask me about something
