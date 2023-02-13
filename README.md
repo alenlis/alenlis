@@ -1,4 +1,4 @@
-### **Hi**  ⚡⚡⚡⚡
+> ### **Hi**  ⚡⚡⚡⚡
 
 - 🔭 I’m currently working on selfeducation
 - 🌱 I’m currently learning __SQL and Python__
